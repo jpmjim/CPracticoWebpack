@@ -10,3 +10,7 @@
   - Creamos nuestros archivos
   - Corremos nuestros scripts
       - npm run dev
+
+## Configuración de TypeScript
+  - npm install typescript ts-loader @types/express -D "Instalar TypeScript como dependencia de desarrollo"
+  - npm install webpack-node-externals -D "Instalar webpack-node-externals como dependencia de desarrollo"
