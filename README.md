@@ -14,3 +14,6 @@
 ## Configuración de TypeScript
   - npm install typescript ts-loader @types/express -D "Instalar TypeScript como dependencia de desarrollo"
   - npm install webpack-node-externals -D "Instalar webpack-node-externals como dependencia de desarrollo"
+
+## Preparar la API Rest con Express.js
+  - Link de Datos a usar Initial State: "https://gist.github.com/gndx/b7ecca73a219712708d858b77dea1f86"
